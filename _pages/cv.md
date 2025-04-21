@@ -31,9 +31,9 @@ Research Experience
 
 Publications and Presentations
 ======
-* Z. Chen and C. Murphy, “Use of Control Flow Graphs with Edges Consideration for Fault Localization,” 2024, presented at CAPWIC 2025, paper submitted for publication  
-* X. Lu, Z. Wang, Z. Chen, J. Lou, C. Wu, Y. Luo, G. Xue, Y. Ji, W. Zhao and J. Li, “A Blockchain-Based Optimized and Secure Scheduling Framework for Charging Service,” 2024, submitted for publication  
-* Z. Chen, O. Weng, S. Qin, J. Agar, N. Tran and R. Kastner, “Evaluating the Robustness of a 4D STEM Autoencoder to Noisy Inputs,” 2024, presented at Fast Machine Learning for Science Conference 2024
+* **Z. Chen** and C. Murphy, “Use of Control Flow Graphs with Edges Consideration for Fault Localization,” 2024, presented at CAPWIC 2025, paper submitted for publication  
+* X. Lu, Z. Wang, **Z. Chen**, J. Lou, C. Wu, Y. Luo, G. Xue, Y. Ji, W. Zhao and J. Li, “A Blockchain-Based Optimized and Secure Scheduling Framework for Charging Service,” 2024, submitted for publication  
+* **Z. Chen**, O. Weng, S. Qin, J. Agar, N. Tran and R. Kastner, “Evaluating the Robustness of a 4D STEM Autoencoder to Noisy Inputs,” 2024, presented at Fast Machine Learning for Science Conference 2024
 
 Teaching Experience
 ======
