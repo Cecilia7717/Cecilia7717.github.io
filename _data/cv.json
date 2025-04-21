@@ -1,39 +1,34 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
+    "name": "Zhuo (Cecilia) Chen",
+    "email": "zchen4@brynmawr.edu",
+    "phone": "347-371-1699",
+    "website": "https://Cecilia7717.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "address": "101 N Merion Ave",
+      "postalCode": "19010",
+      "city": "Bryn Mawr",
       "countryCode": "US",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
+        "network": "Linkedin",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://www.linkedin.com/in/cecilia-chen-256503270/"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Cecilia7717",
+        "url": "https://github.com/Cecilia7717"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
+      "institution": "Bryn Mawr College",
       "area": "Ph.D in Version Control Theory",
       "studyType": "",
       "startDate": "",
