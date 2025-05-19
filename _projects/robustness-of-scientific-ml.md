@@ -4,7 +4,7 @@ collection: projects
 type: "REU project"
 permalink: /projects/robustness-of-scientific-ml
 venue: "University of California, San Diego"
-date: 2024 Summer
+date: 2024-06-26
 location: "La Jolla, CA, USA"
 ---
 
