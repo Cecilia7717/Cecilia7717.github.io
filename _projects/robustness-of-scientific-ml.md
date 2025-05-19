@@ -8,7 +8,7 @@ date: 2024-06-25 until now
 location: "La Jolla, CA, USA"
 ---
 
-Evaluated the robustness of multiple neural networks to different levels of noise at the inputs.
+Evaluated the robustness of multiple neural network models to different levels of noise at the inputs and enhance the robustness.
 
 Overview
 ======
@@ -28,8 +28,3 @@ tuning, and quantization techniques using the brevitas library [6]. Future work 
 enhancing the model’s robustness through regularization, pruning, and exploring the capabilities
 of robust quantized models.
 
-Heading 2
-======
-
-Heading 3
-======
