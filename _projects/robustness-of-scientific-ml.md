@@ -6,7 +6,7 @@ permalink: /projects/robustness-of-scientific-ml
 venue: "University of California, San Diego"
 date: 2024-06-26
 location: "La Jolla, CA, USA"
-paperurl: 'http://cecilia7717.github.io/files/poster1.pdf'
+slidesurl: 'http://cecilia7717.github.io/files/poster1.pdf'
 ---
 
 Evaluated the robustness of multiple neural network models to different levels of noise at the inputs and enhanced the robustness.
