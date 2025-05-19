@@ -1,9 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Evaluating the Robustness of a 4D STEM Autoencoder to Noisy Inputs"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/robustness-of-scientific-ml
+excerpt: 'This work was presented in Fast Machine Learning for Science Conference 2024'
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
