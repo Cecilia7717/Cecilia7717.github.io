@@ -1,9 +1,10 @@
 ---
 title: "Evaluating the Robustness of a 4D STEM Autoencoder to Noisy Inputs"
-collection: projects
+collection: teaching
 type: "REU project"
 permalink: /projects/robustness-of-scientific-ml
 venue: "University of California, San Diego"
+date: 2024 Summer
 location: "La Jolla, CA, USA"
 ---
 
