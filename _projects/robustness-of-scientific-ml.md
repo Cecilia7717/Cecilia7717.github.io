@@ -4,11 +4,10 @@ collection: projects
 type: "REU project"
 permalink: /projects/robustness-of-scientific-ml
 venue: "University of California, San Diego"
-date: 2024-06-25 until now
 location: "La Jolla, CA, USA"
 ---
 
-Evaluated the robustness of multiple neural network models to different levels of noise at the inputs and enhance the robustness.
+Evaluated the robustness of multiple neural network models to different levels of noise at the inputs and enhanced the robustness.
 
 Overview
 ======
