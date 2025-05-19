@@ -12,6 +12,7 @@ Evaluated the robustness of multiple neural network models to different levels o
 
 Overview
 ======
+
 Material scientists use 4D Scanning Transmission Electron Microscopy (4D STEM) to extract
 structural properties of materials by directing an electron beam through thin specimens [1]. While
 this process is invaluable, collecting more detailed data can damage the specimen, as it requires a
