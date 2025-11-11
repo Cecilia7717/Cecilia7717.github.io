@@ -6,8 +6,8 @@ permalink: /projects/debugging-visualization
 venue: "Bryn Mawr College"
 date: 2023-06-30
 location: "Bryn Mawr, PA, USA"
-slideurl: "files/CAPWIC 2025 - Use of Control Flow Graphs with Edges Consideration for Fault Localization.pdf"
-paperurl: "files/Debugging_Visualization_SCAM (1).pdf"
+slideurl: "http://cecilia7717.github.io/files/CAPWIC 2025 - Use of Control Flow Graphs with Edges Consideration for Fault Localization.pdf"
+paperurl: "http://cecilia7717.github.io/files/Debugging_Visualization_SCAM (1).pdf"
 ---
 
 Improved the accuracy of 16.9% real faults tested with modifying the existing fault localization techniques by working with larger data sets and test cases and analyzed the difference.
