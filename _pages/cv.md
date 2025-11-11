@@ -70,20 +70,3 @@ Skills
 * **Programming:** Java, Python, C, Haskell, Solidity  
 * **Tools & Libraries:** Git, NumPy, PyTorch  
 * **Areas:** Machine Learning, Algorithm Design & Analysis, Software Testing
-
-Talks
-======
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
-
-Teaching
-======
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-Service and Leadership
-======
-* Engaged contributor across multiple research collaborations, academic communities, and technical working groups.
-
