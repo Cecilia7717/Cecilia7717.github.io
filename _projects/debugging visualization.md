@@ -5,7 +5,7 @@ type: "Summer project"
 permalink: /projects/debugging-visualization
 venue: "Bryn Mawr College"
 location: "Bryn Mawr, PA, USA"
-slideurl: "http://cecilia7717.github.io/files/CAPWIC 2025 - Use of Control Flow Graphs with Edges Consideration for Fault Localization.pdf"
+slideurl: "http://cecilia7717.github.io/files/CAPWIC.pdf"
 paperurl: "http://cecilia7717.github.io/files/Debugging_Visualization_SCAM (1).pdf"
 ---
 
