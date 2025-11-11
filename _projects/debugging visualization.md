@@ -6,7 +6,7 @@ permalink: /projects/debugging-visualization
 venue: "Bryn Mawr College"
 location: "Bryn Mawr, PA, USA"
 slideurl: "http://cecilia7717.github.io/files/CAPWIC.pdf"
-paperurl: "http://cecilia7717.github.io/files/Debugging_Visualization_SCAM (1).pdf"
+paperurl: "http://cecilia7717.github.io/files/Debugging_Visualization.pdf"
 ---
 
 Improved the accuracy of 16.9% real faults tested with modifying the existing fault localization techniques by working with larger data sets and test cases and analyzed the difference.
