@@ -7,6 +7,7 @@ venue: "Bryn Mawr College"
 date: 2023-06-30
 location: "Bryn Mawr, PA, USA"
 slideurl: 'https://docs.google.com/presentation/d/1toRL_pa7pfW-DxZ7XradW-U3hA-T6a9H2V3nYNxxH3s/edit?usp=sharing'
+paperurl: 'https://drive.google.com/file/d/15MdaWIrjYIrXM-MjFPcPgFwtEJpHCn1P/view?usp=sharing'
 ---
 
 Improved the accuracy of 16.9% real faults tested with modifying the existing fault localization techniques by working with larger data sets and test cases and analyzed the difference.
