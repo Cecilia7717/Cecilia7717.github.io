@@ -19,23 +19,23 @@ Education
 Research Experience
 ======
 * **Bryn Mawr College (June 2025 – Current)**  
-  *Research Assistant – Automated Exceptional Test Oracle Generation*  
+  *Automated Exceptional Test Oracle Generation*  
   Studied oracle generation for real-world bugs, comparing TOGA, TOGLL, and EditAS2 with emphasis on exceptional bugs. Evaluated state-of-the-art AI models to improve oracle-generation performance.
 
 * **Bryn Mawr College (April 2025 – Current)**  
-  *Independent Researcher – Hamilton Paths in Rectangle Grid Graphs with a Triangle Hole*  
+  *Hamilton Paths in Rectangle Grid Graphs with a Triangle Hole*  
   Developed a decomposition method using stacked T-shapes to derive geometric and parity-based constraints for Hamiltonian paths. Proved new impossibility results for grid graphs with triangular holes. (Work in progress)
 
 * **University of California, San Diego (June 2024 – Current)**  
-  *Research Assistant – Robust Scientific Machine Learning*  
+  *Robust Scientific Machine Learning*  
   Evaluated robustness of neural networks to input noise, weight perturbations, and activation corruption. Trained multiple models, generated large-scale robustness datasets, and visualized performance degradation patterns.
 
 * **Shanghai Jiao Tong University, China (May 2024 – July 2024)**  
-  *Research Assistant – Blockchain-Based Framework for EV Charging Scheduling*  
+  *Blockchain-Based Framework for EV Charging Scheduling*  
   Designed, implemented, and evaluated blockchain-based EV charging scheduling algorithms. Collected and analyzed performance data from simulated deployments.
 
 * **Bryn Mawr College (June 2023 – Current)**  
-  *Independent Researcher – Debugging Visualization*  
+  *Debugging Visualization*  
   Developed the +Edges modification for eight fault-localization techniques. Conducted experiments on all 262 Defects4J Math faults and showed +Edges improves effectiveness significantly (e.g., Sørensen by 55.8%).
 
 Publications and Presentations
