@@ -6,7 +6,7 @@ permalink: /projects/debugging-visualization
 venue: "Bryn Mawr College"
 date: 2023-06-30
 location: "Bryn Mawr, PA, USA"
-slideurl: 'http://cecilia7717.github.io/files/poster2.pdf'
+slideurl: 'https://docs.google.com/presentation/d/1toRL_pa7pfW-DxZ7XradW-U3hA-T6a9H2V3nYNxxH3s/edit?usp=sharing'
 ---
 
 Improved the accuracy of 16.9% real faults tested with modifying the existing fault localization techniques by working with larger data sets and test cases and analyzed the difference.
