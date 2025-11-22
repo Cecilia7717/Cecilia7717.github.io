@@ -1,8 +1,6 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
-author_profile: true
+title: "CV"
+redirect_to: /files/cv.pdf
+layout: null
 ---
-
- <p style="font-size: smaller"><a href="{{ http://cecilia7717.github.io/files/cv.pdf }}">Download CV</a></p>
