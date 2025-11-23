@@ -1,6 +1,6 @@
 ---
 title: "A Multi-Strategy Framework for Classroom and Enrollment Scheduling"
-order: 3
+order: 2
 collection: projects
 type: "REU project"
 permalink: /projects/algorithm-compare
