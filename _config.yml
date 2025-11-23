@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhuo (Cecilia) Chen/ student @ Bryn Mawr College"
+title                    : "Zhuo (Cecilia) Chen"
 title_separator          : "-"
 name                     : &name "Zhuo (Cecilia) Chen"
 description              : &description "personal description"
