@@ -1,9 +1,10 @@
 ---
 title: "Blockchain-Based Framework for EV Charging Scheduling"
+order: 8
 collection: projects
 type: "REU project"
 permalink: /projects/blockchain
-venue: "Shanghai, China"
+venue: "Shanghai Jiao Tong Unversity"
 location: "Shanghai, China"
 ---
 
