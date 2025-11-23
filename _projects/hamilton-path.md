@@ -1,5 +1,6 @@
 ---
 title: "Hamiltonian Path in Rectangle Grid Graphs with Triangular Holes"
+order: 1
 collection: projects
 type: "REU project"
 permalink: /projects/hamiltonian-path
