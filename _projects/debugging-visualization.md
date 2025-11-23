@@ -1,5 +1,6 @@
 ---
 title: "Use of Control Flow Graphs with Edge Consideration for Fault Localization"
+order: 6
 collection: projects
 type: "REU project"
 permalink: /projects/debugging-visualization
