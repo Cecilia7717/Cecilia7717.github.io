@@ -2,7 +2,7 @@
 title: "Automated Exceptional Test Oracle Generation"
 collection: projects
 type: "REU project"
-permalink: /projects/test_oracle_generation.md
+permalink: /projects/test-oracle-generation.md
 venue: "Bryn Mawr College"
 location: "Bryn Mawr, PA, USA"
 ---
