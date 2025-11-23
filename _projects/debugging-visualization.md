@@ -1,11 +1,11 @@
 ---
 title: "Use of Control Flow Graphs with Edge Consideration for Fault Localization"
 collection: projects
-type: "Summer project"
+type: "REU project"
 permalink: /projects/debugging-visualization
 venue: "Bryn Mawr College"
 location: "Bryn Mawr, PA, USA"
-slideurl: "http://cecilia7717.github.io/files/slides1.pdf"
+slidesurl: 'http://cecilia7717.github.io/files/slides1.pdf'
 ---
 
 Improved the accuracy of 16.9% real faults tested with modifying the existing fault localization techniques by working with larger data sets and test cases and analyzed the difference.
