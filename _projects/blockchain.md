@@ -1,6 +1,6 @@
 ---
 title: "Blockchain-Based Framework for EV Charging Scheduling"
-order: 8
+order: 9
 collection: projects
 type: "REU project"
 permalink: /projects/blockchain
