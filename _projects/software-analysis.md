@@ -1,5 +1,6 @@
 ---
 title: "Evaluation of Test Generation Tools on Defects4J Bugs"
+order: 7
 collection: projects
 type: "REU project"
 permalink: /projects/software-analysis
