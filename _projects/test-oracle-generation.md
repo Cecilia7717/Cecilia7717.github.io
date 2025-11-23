@@ -1,5 +1,6 @@
 ---
 title: "Automated Exceptional Test Oracle Generation"
+order: 5
 collection: projects
 type: "REU project"
 permalink: /projects/test-oracle-generation
