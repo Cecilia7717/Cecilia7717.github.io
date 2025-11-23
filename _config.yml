@@ -26,7 +26,7 @@ author:
   name             : "Zhuo (Cecilia) Chen"
   pronouns         : "she/her"  
   bio              : "Comp sci and math student"
-  location         : "Bryn Mawr, PA"
+  location         : "Philadelphia, PA"
   employer         : "Bryn Mawr College"
   uri              : # URL
   email            : "zchen4@brynmawr.edu" 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "github.com/Cecilia7717"
+  github           : "/Cecilia7717"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
