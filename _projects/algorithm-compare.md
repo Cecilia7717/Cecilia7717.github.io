@@ -1,6 +1,6 @@
 ---
-title: "Course Scheduling Optimization with "
-order: 1
+title: "A Multi-Strategy Framework for Classroom and Enrollment Scheduling"
+order: 3
 collection: projects
 type: "REU project"
 permalink: /projects/algorithm-compare
@@ -9,7 +9,7 @@ location: "Bryn Mawr, PA, USA"
 paperurl: 'http://cecilia7717.github.io/files/alg.pdf'
 ---
 
-Built and analyzed an end-to-end course scheduling system that optimizes classroom assignments, timeslots, and student enrollments, combining algorithm design, theoretical runtime analysis, and real Registrar data. :contentReference[oaicite:1]{index=1}
+Built and analyzed an end-to-end course scheduling system that optimizes classroom assignments, timeslots, and student enrollments, combining algorithm design, theoretical runtime analysis, and real Registrar data.
 
 Overview
 ======
