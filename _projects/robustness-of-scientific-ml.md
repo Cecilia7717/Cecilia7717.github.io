@@ -1,5 +1,6 @@
 ---
 title: "Evaluating the Robustness of a 4D STEM Autoencoder to Noisy Inputs"
+order: 3
 collection: projects
 type: "REU project"
 permalink: /projects/robustness-of-scientific-ml
