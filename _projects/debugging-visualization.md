@@ -7,7 +7,7 @@ permalink: /projects/debugging-visualization
 venue: "Bryn Mawr College"
 location: "Bryn Mawr, PA, USA"
 slidesurl: 'http://cecilia7717.github.io/files/slides1.pdf'
-paperurl: 'http://cecilia7717.github.io/files/Debugging_Visualization_SCAM.pdf'
+paperurl: 'http://cecilia7717.github.io/files/debugging.pdf'
 ---
 
 Developed an edge-augmented fault-localization framework that integrates CFG branch behavior into SBFL techniques, yielding substantial accuracy improvements on real-world bugs.
