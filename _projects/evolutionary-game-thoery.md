@@ -6,7 +6,7 @@ type: "REU project"
 permalink: /projects/evolutionary-game-thoery
 venue: "Bryn Mawr College"
 location: "Bryn Mawr, PA, USA"
-slidesurl: 'http://cecilia7717.github.io/files/egt.pdf'
+papersurl: 'http://cecilia7717.github.io/files/egt.pdf'
 ---
 
 Analyzed the co-evolution of spam filters and spammers using evolutionary game theory, combining Nash/ESS analysis with spatial grid simulations to model attacker–defender dynamics.
