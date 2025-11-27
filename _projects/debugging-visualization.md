@@ -6,7 +6,7 @@ type: "REU project"
 permalink: /projects/debugging-visualization
 venue: "Bryn Mawr College"
 location: "Bryn Mawr, PA, USA"
-paperurl: 'http://cecilia7717.github.io/files/debugging.pdf'
+paperurl: 'http://cecilia7717.github.io/files/Debugging_Visualization_SCAM.pdf'
 slidesurl: 'http://cecilia7717.github.io/files/slides1.pdf'
 ---
 
