@@ -6,7 +6,7 @@ type: "REU project"
 permalink: /projects/blockchain
 venue: "Shanghai Jiao Tong Unversity"
 location: "Shanghai, China"
-paperurl: "https://cecilia7717.github.io/files/blockchain.pdf"
+paperurl: "https://cecilia7717.github.io/files/blockchain-full.pdf"
 ---
 
 Developed and evaluated a blockchain-based scheduling framework that assigns electric vehicles to charging stations using smart-contract coordination and geometric distance optimization.
