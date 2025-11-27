@@ -6,6 +6,7 @@ type: "REU project"
 permalink: /projects/hamiltonian-path
 venue: "Bryn Mawr College"
 location: "Bryn Mawr, PA, USA"
+paperurl: 'http://cecilia7717.github.io/files/HamiltonianPath/'
 ---
 
 Establishes structural conditions for Hamiltonian paths in rectangular grid graphs with a triangular hole, extending classical grid-graph results.
