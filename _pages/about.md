@@ -14,4 +14,4 @@ Hi! I'm Zhuo (Cecilia) Chen. I'm a senior at Bryn Mawr College. I double major i
 4. Improve the existing spectrum-based fault localization technique by adding edge consideration and using Control Flow Graph with Professor [Chris Murphy](https://www.cs.swarthmore.edu/~cmurphy/) in Columbia University;
 5. Design blockchain-based framework for EV charging scheduling advised by Professor [Jie Li](https://www.cs.sjtu.edu.cn/~lijie/) in Shanghai Jiaotong University and mentored by [Xinyu Lu](https://luxinyu.com.cn/) now in CUHK.
 
-If you’re interested in more details about any project, you can find expanded descriptions in the *Project* section. Feel free to email me (z[lastname]4@brynmawr.edu) with any questions.
+If you’re interested in more details about any project, you can find expanded descriptions in the [*Projects*](https://cecilia7717.github.io/projects/) section. Feel free to email me (z[lastname]4@brynmawr.edu) with any questions.
